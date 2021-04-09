@@ -3,7 +3,7 @@
 To develop the book locally, you first need to set up a Python environment with
 all the packages used to build the book. Edit the book by editing the
 Jupyter notebooks in the `content/` folder. To publish changes to the live
-book, make a pull request on GitHub. This file contains instructions for all of
+book, make a pull request on GitHub. This file will contain instructions for all of
 these steps.
 
 ## Python environment setup
